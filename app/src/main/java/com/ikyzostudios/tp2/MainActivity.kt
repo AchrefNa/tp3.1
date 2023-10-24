@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
                 binding.etEmail.text.toString().isNotEmpty()
             ) {
 
+
+
                /* val text = "OK!"
                 val duration = Toast.LENGTH_SHORT
 
